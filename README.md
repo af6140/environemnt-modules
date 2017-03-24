@@ -86,4 +86,5 @@ For example we have two versions of cuda installed say 7.5 and 8.0, we need crea
 
 ## Reference
 
-* gcc environment variables https://gcc.gnu.org/onlinedocs/gcc/Environment-Variables.html
+* gcc environment variables: https://gcc.gnu.org/onlinedocs/gcc/Environment-Variables.html
+* environment modules usage : https://confluence.csiro.au/display/SC/Creating+Environment+Modules
