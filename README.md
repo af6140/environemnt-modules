@@ -82,3 +82,8 @@ For example we have two versions of cuda installed say 7.5 and 8.0, we need crea
   ```bash
   module unload cuda/7.5
   ```
+
+
+## Reference
+
+* gcc environment variables https://gcc.gnu.org/onlinedocs/gcc/Environment-Variables.html
